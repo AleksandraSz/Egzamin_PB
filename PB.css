@@ -1,0 +1,246 @@
+#body{
+    background-color: rgb(13, 29, 13);
+    width:100%;
+    height: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:1;
+}
+#header {
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+}
+#waPB{
+    padding-left: 3vw;
+    width: 14vw;
+    height: 20vh;
+    padding-right: 1vw;
+}
+#wbPB{
+    padding-left: 0vw;
+    width: 14vw;
+    height: 20vh;
+    padding-right: 1vw;
+}
+#wePB{
+    padding-left: 0vw;
+    width: 14vw;
+    height: 20vh;
+    padding-right: 1vw;
+}
+#wiPB{
+    padding-left: 0vw;
+    width: 14vw;
+    height: 20vh;
+    padding-right: 1vw;
+}
+#wizPB{
+    padding-left: 0vw;
+    width: 14vw;
+    height: 20vh;
+    padding-right: 1vw;
+}
+#wmPB{
+    padding-left: 0vw;
+    width: 14vw;
+    height: 20vh;
+    padding-right: 1vw;
+}
+#tytul{
+    font:15px Trebuchet MS, sans-serif;
+    text-align: center;
+    height: 50px;
+    background-color: white;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+#pasek{
+    background-image: url("logo2.png");
+    background-repeat: round;
+    background-color: white;
+    height: 70px;
+    background-size: 200px;
+}
+#pasek1{
+    background-image: url("logo2.png");
+    background-repeat: round;
+    background-color: white;
+    height: 70px;
+    background-size: 200px;
+}
+#tlo{
+    background-color: white;
+}
+#content{
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 100;
+    width:70vw;
+    height: 20vh;
+    font: 12px, Arial, serif;
+    background-color: white;
+    font-style: black;
+    text-align: center;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    line-height: 1.8;
+}
+
+#main{
+    background-image: url("tlo1.jpg");
+    width: 100%;
+    height: 400px;
+    background-repeat: round;
+    padding-bottom: 20px;
+    
+}
+#root{
+    background-color: rgb(222, 240, 225);
+    margin-left: auto;
+    margin-right: auto;
+    width: 97.8vw;
+}
+#root button{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+    font-family: 'CplaborateLightRegular',Copperplate Gothic Light,cursive;
+    width: 32.6vw;
+    height: 10vh;
+    color: white;
+    background-color: rgb(6, 48, 6);
+   
+}
+#lista{
+    font-family: Arial, Helvetica, serif;
+    font-size: 12px;
+    line-height: 1.8;
+}
+#contact{
+    font-family: Arial, Helvetica, serif;
+    font-size: 12px;
+    line-height: 1.8;
+    text-align: center;
+}
+#omap{
+    width: 600px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("mapa.jpg");
+    background-repeat: no-repeat;
+}
+
+#root1{
+    background-image: url("logoz2.PNG");
+    width: auto;
+    height: auto;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#root1 form {
+    padding: 10px 15px;
+    margin: 5px 0;
+    box-sizing:border-box;
+    width: 100%;
+}
+  
+#root1 label {
+    display: block;
+    font-size: 20px;
+    font-family: Arial, Helvetica, serif;
+    padding: 10px 15px;
+    margin: 5px 0;
+    box-sizing:border-box;
+    width: 100%;
+    color:white;
+}
+  
+#root1 input{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, serif;
+    padding: 10px 15px;
+    margin: 5px 0;
+    box-sizing:border-box;
+    width: 100%;
+}
+  
+#root1 input [type="checkbutton"]{
+    margin-left: 0;
+    margin-right: 10px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, serif;
+    padding: 10px 15px;
+    margin: 5px 0;
+    box-sizing:border-box;
+    width: 100%;
+}
+  
+#btnf{
+    display: block;
+    max-width: 200px;
+    padding: 10px 20 px;
+    margin-top: 20px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, serif;
+    padding: 10px 15px;
+    margin: 5px 0;
+    box-sizing:border-box;
+    width: 100%;
+}
+  
+#root1 span {
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, serif;
+    padding: 10px 15px;
+    margin: 5px 0;
+    box-sizing:border-box;
+    width: 100%;
+}
+
+#ask {
+    font-family: Arial, Helvetica, serif;
+    font-size: 12px;
+    line-height: 1.8;
+    text-align: center;
+    color:white;
+}
+
+#accept{
+    width: 30px;
+    height: 30px;
+}
+#map{
+    padding-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width:600px;
+}
+#opis_map {
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 100;
+    width:auto;
+    height: auto;
+    font: 12px, Arial, serif;
+    background-color: white;
+    font-style: black;
+    text-align: center;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    line-height: 1.8;
+}
